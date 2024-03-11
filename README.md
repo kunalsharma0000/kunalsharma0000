@@ -1,4 +1,3 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/92/88/72/1000_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align = "right" alt = "coding" width = "400" src  = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
